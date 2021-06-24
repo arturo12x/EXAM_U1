@@ -1,0 +1,9 @@
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\bin\Debug\EXAM_U1.exe.config
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\obj\Debug\EXAM_U1.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\obj\Debug\EXAM_U1.Form1.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\obj\Debug\EXAM_U1.Properties.Resources.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\obj\Debug\EXAM_U1.csproj.GenerateResource.Cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\bin\Debug\EXAM_U1.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\bin\Debug\EXAM_U1.pdb
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\obj\Debug\EXAM_U1.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\EXAM_U1\EXAM_U1\obj\Debug\EXAM_U1.pdb
